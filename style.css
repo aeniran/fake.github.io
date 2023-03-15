@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pro{
+    height: 80vh;
+    background-color: blueviolet;
+    border-radius: 20px ;
+}
+.po{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+.it{
+    width: 40%;
+  margin-left: 90px;
+  border-radius: 100%;
+  margin-top: -50px;
+}
